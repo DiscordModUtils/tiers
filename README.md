@@ -4,7 +4,22 @@ Paid tiers can be purchased to improve your bot experience. They include new fea
 
 ## Free Tier
 **Price:** Free<br>
-**Repository:** [Click here](https://github.com/discordmodutils/free)<br>
-<br>
-Features:<br>
-#### Utility
+**Repository:** [Click here](https://github.com/discordmodutils/free)
+## Enterprise Tier
+**Price:** Contact
+**Repository:** [Click Here](https://github.com/discordmodutils/enterprise)
+
+# Feature Comparison
+| Command/Feature | Free | Enterprise |
+| :---: | :---: | :---: |
+| __**Utility Module**__ |
+| ping | ✅ | ✅ |
+| help | ✅ | ✅ |
+| about | ✅ | ✅ |
+| avatar | ✅ | ✅ |
+| uptime | ✅ | ✅ |
+| whois | ✅ (limited) | ✅ |
+| membercount | ✅ (limited) | ✅ |
+| AFK System | ✅ (limited) | ✅ |
+| Rules System | 🚫 | ✅ |
+| FAQs System | 🚫 | ✅ |
