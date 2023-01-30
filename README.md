@@ -6,7 +6,7 @@ Paid tiers can be purchased to improve your bot experience. They include new fea
 **Price:** Free<br>
 **Repository:** [Click here](https://github.com/discordmodutils/free)
 ## Enterprise Tier
-**Price:** Contact
+**Price:** Contact<br>
 **Repository:** [Click Here](https://github.com/discordmodutils/enterprise)
 
 # Feature Comparison
