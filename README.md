@@ -12,12 +12,14 @@ Paid tiers can be purchased to improve your bot experience. They include new fea
 # Feature Comparison
 | Command/Feature | Free | Enterprise |
 | :---: | :---: | :---: |
+| __**Application/Slash Commands**__ | ✅ (limited) | ✅ |
 | __**Utility Module**__ |
 | ping | ✅ | ✅ |
 | help | ✅ | ✅ |
 | about | ✅ | ✅ |
 | avatar | ✅ | ✅ |
 | uptime | ✅ | ✅ |
+| get invite | ✅ | ✅ |
 | whois | ✅ (limited) | ✅ |
 | membercount | ✅ (limited) | ✅ |
 | AFK System | ✅ (limited) | ✅ |
